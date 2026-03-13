@@ -12,7 +12,7 @@ implementada con herramientas de infraestructura como código.
 -  Bricio Maceda Muñoz
 -  Julio Alberto Ortiz Pacheco
 -  Mendoza Contreras Azucena
--  lexis Ortega Dehesa
+-  Alexis Ortega Dehesa
 -  Raúl Hernández Hernández
 
 ## Objetivo
