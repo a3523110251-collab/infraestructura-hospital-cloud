@@ -9,11 +9,11 @@ implementada con herramientas de infraestructura como código.
 
 ## Integrantes del equipo
 
-● Bricio Maceda Muñoz
-● Julio Alberto Ortiz Pacheco
-● Mendoza Contreras Azucena
-● Alexis Ortega Dehesa
-● Raúl Hernández Hernández
+-  Bricio Maceda Muñoz
+-  Julio Alberto Ortiz Pacheco
+-  Mendoza Contreras Azucena
+-  lexis Ortega Dehesa
+-  Raúl Hernández Hernández
 
 ## Objetivo
 
