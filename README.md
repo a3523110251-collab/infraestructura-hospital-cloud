@@ -15,17 +15,6 @@ implementada con herramientas de infraestructura como código.
 -  Alexis Ortega Dehesa
 -  Raúl Hernández Hernández
 
-## Objetivo
-
-Simular el despliegue de infraestructura cloud para un hospital,
-incluyendo red, seguridad, monitoreo y automatización.
-
-# Proyecto Terraform – Infraestructura Local
-
-Este proyecto crea infraestructura local utilizando Terraform.
-Incluye servidores y red definidos en archivos de configuración (main.tf y archivos dentro de infraestructura/).
-El proyecto está versionado con Git y alojado en GitHub, para permitir un historial de cambios completo.
-
 ## Herramientas utilizadas
 
 - Terraform
