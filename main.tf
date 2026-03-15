@@ -23,8 +23,9 @@ resource "local_file" "red" {
   filename = "${path.module}/infraestructura/red.txt"
   content  = "Red virtual creada con Terraform"
 }
-tags = {
-  Name = "infraestructura-hospital"
-  Proyecto = "cloud-hospital"
-  Responsable = "Beto"
+
+# Nuevo recurso agregado para la red.
+resource "local_file" "subred" {
+  filename = "${path.module}/infraestructura/subred.txt"
+  content  = "Subred privada creada para servicios internos"
 }
