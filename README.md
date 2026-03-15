@@ -9,7 +9,7 @@ implementada con herramientas de infraestructura como código.
 
 ## Integrantes del equipo
 
--  Bricio Maceda Muñoz ........
+-  Bricio Maceda Muñoz xd
 -  Julio Alberto Ortiz Pacheco
 -  Mendoza Contreras Azucena
 -  Alexis Ortega Dehesa
