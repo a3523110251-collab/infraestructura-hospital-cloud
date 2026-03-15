@@ -23,3 +23,15 @@ resource "local_file" "red" {
   filename = "${path.module}/infraestructura/red.txt"
   content  = "Red virtual creada con Terraform"
 }
+
+# --- Contribución de Bricio ---
+
+resource "local_file" "backup_storage" {
+  filename = "${path.module}/infraestructura/backup_s3.txt"
+  content  = "Bucket S3 para backups creado por Bricio. Estado: Seguro (Acceso Privado)"
+}
+
+resource "local_file" "politica_seguridad" {
+  filename = "${path.module}/infraestructura/seguridad_red.txt"
+  content  = "Politicas de ciberseguridad aplicadas: Public Access Block activo."
+}
