@@ -24,7 +24,7 @@ resource "local_file" "red" {
   content  = "Red virtual creada con Terraform"
 }
 
-# Nuevo recurso agregado para la red
+# Nuevo recurso agregado para la red.
 resource "local_file" "subred" {
   filename = "${path.module}/infraestructura/subred.txt"
   content  = "Subred privada creada para servicios internos"
