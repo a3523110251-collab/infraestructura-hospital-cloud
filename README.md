@@ -72,3 +72,10 @@ terraform show:
 Muestra todos los recursos y archivos creados por Terraform.
 
 Luego de ejecutar estos comandos, Terraform creará la infraestructura definida en el archivo main.tf.
+## Configuración del repositorio
+
+Este repositorio utiliza Terraform para automatizar la creación
+de infraestructura cloud utilizada en el sistema hospitalario.
+
+Cada integrante del equipo realiza cambios mediante ramas
+individuales para mantener un historial claro de contribuciones.
