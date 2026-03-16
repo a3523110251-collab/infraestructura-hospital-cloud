@@ -1,1 +1,5 @@
 Red virtual creada con Terraform
+Actualización de red:
+
+Se agregó soporte para un nuevo servidor dentro de la infraestructura.
+Esto permite ampliar la capacidad del sistema hospitalario..
