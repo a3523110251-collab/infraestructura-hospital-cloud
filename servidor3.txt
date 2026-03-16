@@ -1,0 +1,9 @@
+Servidor: servidor3
+Rol: servidor de respaldo del sistema hospitalario
+
+Configuración de red:
+IP: 192.168.10.30
+Gateway: 192.168.10.1
+DNS: 8.8.8.8
+
+Este servidor se agrega para simular la expansión de la infraestructura cloud del hospital.
