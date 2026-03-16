@@ -29,3 +29,15 @@ resource "local_file" "subred" {
   filename = "${path.module}/infraestructura/subred.txt"
   content  = "Subred privada creada para servicios internos"
 }
+
+# Recurso de monitoreo - métricas del sistema hospitalario
+resource "local_file" "config_monitoreo" {
+  filename = "${path.module}/infraestructura/monitoreo.txt"
+  content  = "Configuración de monitoreo: métricas de CPU, memoria y disco para servidores hospitalarios"
+}
+
+# Recurso de alertas - notificaciones del sistema
+resource "local_file" "alertas" {
+  filename = "${path.module}/infraestructura/alertas.txt"
+  content  = "Sistema de alertas configurado para umbrales críticos de disponibilidad"
+}
