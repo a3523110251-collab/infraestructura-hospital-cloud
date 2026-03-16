@@ -21,7 +21,7 @@ resource "local_file" "servidor2" {
 
 resource "local_file" "red" {
   filename = "${path.module}/infraestructura/red.txt"
-  content  = "Red virtual creada con Terraform"
+  content  = "Red virtual creada con -Terraform"
 }
 
 # Nuevo recurso agregado para la red.
